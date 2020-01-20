@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seductr - Paisley Parker</title>
+    <link>https://seductr.com/</link>
+    <description>Recent content on Seductr - Paisley Parker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2020, Seductr and Paisley Parker; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seductr.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Paisley Parker</title>
+      <link>https://seductr.com/about/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seductr.com/about/</guid>
+      <description>Howdy there! I am Paisley Parker and I am an enby model. Enby means that I am gender non-binary, identifying as neither male nor female but something across the spectrum. I am located in the South West United States and I love hot desert days. Currently I produce a mix of art and adult oriented content all of which is available for purchase. You will notice that although I have a penis, I produce both masculine and feminine content with a trend towards trans feminine.</description>
+    </item>
+    
+  </channel>
+</rss>
